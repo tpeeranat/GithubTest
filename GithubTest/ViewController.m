@@ -23,6 +23,7 @@
     NSLog(@"Test 3rd commit via Github Client");
     
     NSLog(@"create new branch - client");
+    NSLog(@"continue edit on master branch");
 }
 
 - (void)didReceiveMemoryWarning
