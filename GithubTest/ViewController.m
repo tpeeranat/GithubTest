@@ -24,7 +24,12 @@
     
     NSLog(@"create new branch - client");
     NSLog(@"continue edit on master branch");
+<<<<<<< HEAD
     NSLog(@"try to add something on the server");
+=======
+    
+    NSLog(@"edit something on client");
+>>>>>>> edit something on client
 }
 
 - (void)didReceiveMemoryWarning
