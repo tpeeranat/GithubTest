@@ -20,6 +20,7 @@
 	// Do any additional setup after loading the view, typically from a nib.
     
     NSLog(@"Test 2nd commit");
+    NSLog(@"Test 3rd commit via Github Client");
 }
 
 - (void)didReceiveMemoryWarning
