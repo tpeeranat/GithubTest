@@ -21,6 +21,8 @@
     
     NSLog(@"Test 2nd commit");
     NSLog(@"Test 3rd commit via Github Client");
+    
+    NSLog(@"create new branch - client");
 }
 
 - (void)didReceiveMemoryWarning
