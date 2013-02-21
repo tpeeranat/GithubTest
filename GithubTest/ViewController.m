@@ -18,9 +18,12 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+<<<<<<< HEAD
     
     NSLog(@"Test 2nd commit");
     NSLog(@"Test 3rd commit via Github Client");
+=======
+>>>>>>> parent of 171b902... 2nd commit test
 }
 
 - (void)didReceiveMemoryWarning
